@@ -1,69 +1,110 @@
- <h1> Autismo Database</h1>
+ <h1>Autismo Database — Mulheres Autistas</h1>
 
-Bem-vindo(a) ao Autismo Database, um projeto informativo e colaborativo sobre o espectro autista.
-A ideia é criar uma base de dados acessível, confiável e inclusiva, reunindo informações essenciais sobre o autismo — desde conceitos e direitos até recursos práticos e relatos de pessoas autistas.
+<p>
+        Bem-vinda ao <strong>Autismo Database — Mulheres Autistas</strong>, um projeto informativo e colaborativo
+        dedicado a reunir, organizar e divulgar informações sobre o espectro autista
+        <strong>a partir da vivência e da realidade de mulheres autistas</strong>.
+    </p>
 
-<h2>Objetivo do projeto</h2>
+<p>
+        O projeto nasce da necessidade de dar visibilidade às experiências femininas no espectro,
+        historicamente invisibilizadas, subdiagnosticadas e muitas vezes mal compreendidas.
+        Aqui, o foco é informação de qualidade, respeito, escuta e representatividade.
+</p>
 
-- O principal objetivo é organizar e disponibilizar conhecimento sobre o autismo de forma aberta e compreensível, valorizando a perspectiva autista e combatendo a desinformação.
+ <h2>Objetivo do projeto</h2>
 
-- Queremos que este repositório sirva como:
+<p>
+        O principal objetivo é criar uma base de dados acessível, confiável e inclusiva sobre
+        <strong>mulheres autistas</strong>, valorizando suas vivências, necessidades específicas
+        e perspectivas.
+ </p>
 
-- Uma fonte de referência para quem busca entender o autismo com respeito e precisão.
-
-- Um ponto de apoio para famílias, profissionais e pessoas autistas.
-
-- Uma base de dados aberta que possa futuramente se tornar um site interativo.
+<ul>
+        <li>Ser uma fonte de referência sobre autismo em mulheres, com informação clara e responsável.</li>
+        <li>Apoiar mulheres autistas, familiares, profissionais e pessoas em processo de autoconhecimento ou diagnóstico.</li>
+        <li>Combater a desinformação e os estereótipos sobre o autismo feminino.</li>
+        <li>Servir como base para um futuro site interativo voltado especificamente para mulheres no espectro.</li>
+</ul>
 
 <h2>Tipos de informação incluídos</h2>
 
-- O projeto reúne conteúdos organizados por temas, como:
+<p>O projeto reúne conteúdos organizados por temas, sempre com foco em mulheres autistas, como:</p>
 
-- Conceitos e definições: explicações claras sobre o que é o autismo e como ele se manifesta.
+ <ul>
+        <li>
+            <strong>Conceitos e definições:</strong>
+            explicações sobre o autismo considerando o recorte de gênero, incluindo camuflagem social,
+            diagnóstico tardio e diferenças em relação aos modelos tradicionais.
+        </li>
+        <li>
+            <strong>Vivências de mulheres autistas:</strong>
+            relatos, textos e experiências escritas por mulheres autistas, respeitando a diversidade dentro do espectro.
+        </li>
+        <li>
+            <strong>Direitos e políticas públicas:</strong>
+            informações sobre legislação, benefícios, saúde mental, trabalho e inclusão no Brasil,
+            com atenção às questões que impactam mulheres.
+        </li>
+        <li>
+            <strong>Recursos úteis:</strong>
+            associações, projetos, grupos de apoio, conteúdos educativos e profissionais sensíveis
+            à temática do autismo em mulheres.
+        </li>
+        <li>
+            <strong>Glossário inclusivo:</strong>
+            termos e expressões importantes do universo neurodivergente, evitando linguagem patologizante
+            ou estigmatizante.
+        </li>
+    </ul>
 
-- Vivências autistas: relatos, textos e experiências escritas por pessoas autistas.
-
-- Direitos e políticas públicas: informações sobre legislação, benefícios e inclusão no Brasil.
-
-- Recursos úteis: associações, serviços, grupos de apoio e materiais educativos.
-
-- Glossário inclusivo: termos e expressões importantes do universo neurodivergente.
-
-- Todo o conteúdo é voltado para diversidade, empatia e informação de qualidade.
+<p>
+        Todo o conteúdo é guiado pelos valores de diversidade, empatia, autonomia e informação de qualidade.
+    </p>
 
 <h2>Como contribuir</h2>
 
-- Quer ajudar? Toda contribuição é bem-vinda! 💙
+<p>Quer contribuir? Toda ajuda é bem-vinda 💙</p>
 
-- Faça um fork deste repositório.
+<ul>
+        <li>Faça um <strong>fork</strong> deste repositório.</li>
+        <li>Adicione ou corrija informações em arquivos HTML ou Markdown dentro da pasta <code>/data</code>.</li>
+        <li>Envie um <strong>pull request</strong> com uma breve explicação das mudanças.</li>
+    </ul>
 
-- Adicione ou corrija informações em arquivos Markdown dentro da pasta /data.
-
-- Envie um pull request com uma breve explicação das mudanças.
+<p>
+        Contribuições de <strong>mulheres autistas</strong> são especialmente valorizadas,
+        mas aliadas respeitosas também são bem-vindas.
+    </p>
 
 <h2>Antes de contribuir</h2>
 
-- Cite fontes confiáveis (científicas ou vivências autistas).
-
-- Evite termos médicos desatualizados ou linguagem patologizante.
-
-- Mantenha o foco no respeito e na inclusão.
+<ul>
+        <li>Priorize fontes confiáveis (científicas, institucionais ou vivências autistas).</li>
+        <li>Evite termos médicos desatualizados ou linguagem patologizante.</li>
+        <li>Respeite a diversidade de experiências dentro do espectro.</li>
+        <li>Mantenha o foco no autismo em mulheres.</li>
+    </ul>
 
 <h2>Futuro do projeto</h2>
 
-- Planos para as próximas etapas:
+<p>Próximos passos planejados:</p>
 
-- Criar um banco de dados real (SQLite/PostgreSQL).
+<ul>
+        <li>Estruturação de um banco de dados (SQLite ou PostgreSQL).</li>
+        <li>Desenvolvimento de uma API simples.</li>
+        <li>Criação de um site interativo com busca e visualização de dados.</li>
+        <li>Ampliação do acervo de vivências e materiais produzidos por mulheres autistas.</li>
+    </ul>
 
-- Desenvolver uma API simples.
+<h2>Licença</h2>
 
-- Lançar um site interativo com busca e visualização de dados.
+<p>
+        Este é um projeto de código aberto.<br>
+        Você é livre para usar, modificar e compartilhar, desde que mantenha os créditos
+        e respeite a proposta do projeto.
+    </p>
 
- <h2>Licença</h2>
-
-- Este projeto é de código aberto.
-- Você é livre para usar, modificar e compartilhar, desde que mantenha os créditos e o respeito pela proposta.
-
-<h2></h2>
-
-✨ *“Por que se encaixar, se você nasceu para se destacar?” Dr. Seuss*
+<p>
+        ✨ <em>“Por que se encaixar, se você nasceu para se destacar?” — Dr. Seuss</em>
+    </p>
