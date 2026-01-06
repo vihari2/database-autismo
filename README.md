@@ -1,5 +1,8 @@
  <h1>Autismo Database — Mulheres Autistas</h1>
 
+ ![Lisbeth Salander](https://i.pinimg.com/originals/8b/5b/eb/8b5beb6288b59ee1918719dd4ac840e0.gif)
+
+
 <p>
         Bem-vinda ao <strong>Autismo Database — Mulheres Autistas</strong>, um projeto informativo e colaborativo
         dedicado a reunir, organizar e divulgar informações sobre o espectro autista
